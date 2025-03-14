@@ -1,0 +1,20 @@
+{
+    "ModTitle": "DaggerLog",
+    "ModVersion": "0.1.6",
+    "ModAuthor": "Zed",
+    "ContactInfo": "Lysandus' Tomb Discord server",
+    "DFUnity_Version": "1.1.1",
+    "ModDescription": "Reports unhandled exceptions and provides structured logging for mod creators.",
+    "GUID": "16c91975-e423-4136-89c9-cdaa21eac07e",
+    "Files": [
+        "Assets/Game/Mods/dfu-daggerlog/daggerlog.dfmod.json",
+        "Assets/Game/Mods/dfu-daggerlog/Scripts/DaggerLog.cs",
+        "Assets/Game/Mods/dfu-daggerlog/Scripts/ExceptionDatabase.cs",
+        "Assets/Game/Mods/dfu-daggerlog/Scripts/Logger/FileSink.cs",
+        "Assets/Game/Mods/dfu-daggerlog/Scripts/Logger/Formatter.cs",
+        "Assets/Game/Mods/dfu-daggerlog/Scripts/Logger/Logger.cs",
+        "Assets/Game/Mods/dfu-daggerlog/Scripts/Logger/UnityLogHandler.cs",
+        "Assets/Game/Mods/dfu-daggerlog/Scripts/UI/ExceptionWindow.cs",
+        "Assets/Game/Mods/dfu-daggerlog/Scripts/Utils.cs"
+    ]
+}
